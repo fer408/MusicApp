@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="screen"> We love muscic thats what this page is for. </string>
+    //Strings for greatest hits page
+    <string name="song1">Bohemian Rapsody</string>
+    <string name="song2">Freebird</string>
+    <string name="song3">Stairway to heaven</string>
+    <string name="song4">We are the champions</string>
+    <string name="song5">Everlong</string>
+    <string name="song6">Ironman</string>
+    <string name="song7">Thriller</string>
+
+    //Strings for Schedule page
+
+    <string name="city1">San Francisco,United States</string>
+    <string name="city2">Los Angeles,United States</string>
+    <string name="city3">Berlin,Germany</string>
+    <string name="city4">London,United Kingdom</string>
+    <string name="city5">Mexico City,Mexico</string>
+    <string name="city6">Tokyo,Japan</string>
+    <string name="city7">Chicago,United States</string>
+    <string name="city8">New York,United states</string>
+</resources>
